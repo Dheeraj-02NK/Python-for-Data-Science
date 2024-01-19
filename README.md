@@ -1,5 +1,5 @@
 ## Python-for-Data-Science
-Python Libraries for Data Analysis, Data Visualization, Data Science, EDA
+Python Libraries for Data Analysis, Data Visualization, Data Science, EDA.
 
 ### Libraries
 Python has a rich ecosystem of libraries and tools for data science, machine learning, and artificial intelligence. Here are some of the most widely used Python libraries for data science:
